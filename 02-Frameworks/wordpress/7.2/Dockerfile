@@ -1,4 +1,4 @@
-FROM ufhweb/php:7.2
+FROM chriswiegman/php:7.2
 MAINTAINER info@chriswiegman.com
 
 RUN apt-get update
