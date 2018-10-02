@@ -1,5 +1,5 @@
 FROM ufhweb/php:7.2
-MAINTAINER cwiegman@ufl.edu
+MAINTAINER info@chriswiegman.com
 
 RUN apt-get update
 RUN apt-get -y upgrade

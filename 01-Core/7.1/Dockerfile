@@ -1,5 +1,5 @@
 FROM php:7.1-fpm
-MAINTAINER cwiegman@ufl.edu
+MAINTAINER info@chriswiegman.com
 
 RUN apt-get update
 RUN apt-get -y upgrade
